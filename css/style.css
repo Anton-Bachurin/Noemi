@@ -858,15 +858,15 @@
 
 @media (max-width: 640px) {
   .blog {
-  background-image: url("../images/banner-mobile.jpg");
-  height: 100vh;
+    background-image: url("../images/banner-mobile.jpg");
+    height: 100vh;
   }
 
   .blog-text {
-  width: 90%;
-  margin: 0 auto;
-  padding-top: 26px;
-  padding-bottom: 215px;
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 26px;
+    padding-bottom: 215px;
   }
 
   .logo {
@@ -907,14 +907,14 @@
   }
   
   .big-title {
-  font-size: 16px;
-  padding-top: 44px;
-  padding-bottom: 40px;
+    font-size: 16px;
+    padding-top: 44px;
+    padding-bottom: 40px;
   }
 
   .big-title::after {
-  width: 90px;
-  padding-top: 13px;
+    width: 90px;
+    padding-top: 13px;
   }
   
   .trends-items {
@@ -933,7 +933,6 @@
   }
 
   .posts {
-   width: 100%;
    margin-right: 0px;
   }
 
